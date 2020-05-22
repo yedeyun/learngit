@@ -6,3 +6,4 @@ Git has a mutable index called stage
 set invlist 显示不可见字符和不可打印字符
 tab	 回车
 第一次修改
+第二次修改
